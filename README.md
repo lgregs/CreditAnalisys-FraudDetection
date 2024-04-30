@@ -35,7 +35,7 @@ This project focuses on Data Analysis and Forecast using the CRISP-DM approach, 
 - Scikit-learn
 - XGBoost
 - Imbalanced-learn
-- 
+
 ### Usage
 The project includes data exploration, visualization, preprocessing, model training, and evaluation using various classification algorithms.
 
@@ -46,7 +46,7 @@ Credit Risk Dataset
 - The aim is to predict possible credit defaulters and assist financial institutions in taking appropriate steps.
 
 
-## Features 2
+## Features
 
 - `loan_amnt`: Loan amount
 - `term`: Term
@@ -60,7 +60,7 @@ Credit Risk Dataset
 - `purpose`: Purpose of loan
 
 
-## Libs
+## Libraries Used
 
 - Pandas
 - Matplotlib
