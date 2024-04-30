@@ -44,6 +44,7 @@ Credit Risk Dataset
 
 - This dataset consists of credit history records of customers from a financial institution.
 - The aim is to predict possible credit defaulters and assist financial institutions in taking appropriate steps.
+- Link to the Dataset:[Credit Risk](https://www.kaggle.com/datasets/ranadeep/credit-risk-dataset)
 
 
 ## Features
