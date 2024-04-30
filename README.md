@@ -2,9 +2,7 @@
 # Credit Analisys & Fraud Detection
 
 ## Introduction
-This project focuses on data analysis and prediction using the CRISP-DM approach. Both datasets used in this project are sourced from Kaggle.
-
-
+This project focuses on Data Analysis and Forecast using the CRISP-DM approach, sorting customers and checking fraud possibilties. Both datasets used in this project are sourced from Kaggle.
 
 
 ## Dataset - 1
@@ -37,26 +35,17 @@ This project focuses on data analysis and prediction using the CRISP-DM approach
 - Scikit-learn
 - XGBoost
 - Imbalanced-learn
+- 
 ### Usage
 The project includes data exploration, visualization, preprocessing, model training, and evaluation using various classification algorithms.
+
 ## Dataset - 2
 Credit Risk Dataset
 
 - This dataset consists of credit history records of customers from a financial institution.
 - The aim is to predict possible credit defaulters and assist financial institutions in taking appropriate steps.
-## Features
+- 
 
-- `step`: One unit of time in the real world. In this case, 1 == 1 hour of time, totaling 744 steps (30 days of simulation).
-- `type`: Type of transaction (CASH-IN, CASH-OUT, DEBIT, PAYMENT, and TRANSFER).
-- `amount`: Amount of money transacted in the local currency.
-- `nameOrig`: Originator of the transaction.
-- `oldbalanceOrg`: Initial balance of the sender's account.
-- `newbalanceOrig`: Balance after the transaction of the sender.
-- `nameDest`: Destination of the transaction.
-- `oldbalanceDest`: Initial balance of the destination account. There is no information about customers starting with "M" (Merchants).
-- `newbalanceDest`: Balance after the transaction of the destination account. There is no information about customers starting with "M" (Merchants).
-- `isFraud`: Transactions identified as fraudulent.
-- `isFlaggedFraud`: Business model that controls massive transfers and marks them as illegal transfers.
 ## Features 2
 
 - `loan_amnt`: Loan amount
@@ -78,12 +67,10 @@ Credit Risk Dataset
 - Seaborn
 - Scikit-learn
 - XGBoost
-### Usage
-The project includes data exploration, visualization, preprocessing, model training, and evaluation using various classification algorithms.
-## Use
+- 
+## Usage
 
 The project involves data preprocessing, visualization, and classification model training to predict credit defaulters.
-## Installation
 
 ## Installation
 To run the project, you need to install the required libraries:
