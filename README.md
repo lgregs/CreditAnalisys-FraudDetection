@@ -1,7 +1,7 @@
 
-# Credit Analisys & Fraud Detection
+# Credit Analisys & Fraud Detection (Análise de Crédito e Detecção de Fraudes)
 
-## Introduction
+## Introduction (Introdução)
 This project focuses on Data Analysis and Forecast using the CRISP-DM approach, sorting customers and checking fraud possibilties. Both datasets used in this project are sourced from Kaggle.
 
 
@@ -13,7 +13,7 @@ This project focuses on Data Analysis and Forecast using the CRISP-DM approach, 
 - Link to the dataset: [PaySim Dataset](https://www.kaggle.com/datasets/ealaxi/paysim1)
 
 
-## Features
+## Features (Atributos)
 
 - `step`: One unit of time in the real world. In this case, 1 == 1 hour of time, totaling 744 steps (30 days of simulation).
 - `type`: Type of transaction (CASH-IN, CASH-OUT, DEBIT, PAYMENT, and TRANSFER).
@@ -26,7 +26,8 @@ This project focuses on Data Analysis and Forecast using the CRISP-DM approach, 
 - `newbalanceDest`: Balance after the transaction of the destination account. There is no information about customers starting with "M" (Merchants).
 - `isFraud`: Transactions identified as fraudulent.
 - `isFlaggedFraud`: Business model that controls massive transfers and marks them as illegal transfers.
-## Libraries Used
+- 
+## Libraries Used (Bibliotecas Utilizadas)
 
 - Pandas
 - NumPy
@@ -36,7 +37,7 @@ This project focuses on Data Analysis and Forecast using the CRISP-DM approach, 
 - XGBoost
 - Imbalanced-learn
 
-### Usage
+### Usage (Utilização)
 The project includes data exploration, visualization, preprocessing, model training, and evaluation using various classification algorithms.
 
 ## Dataset - 2
@@ -47,7 +48,7 @@ Credit Risk Dataset
 - Link to the Dataset: [Credit Risk](https://www.kaggle.com/datasets/ranadeep/credit-risk-dataset)
 
 
-## Features
+## Features (Atributos)
 
 - `loan_amnt`: Loan amount
 - `term`: Term
@@ -61,7 +62,7 @@ Credit Risk Dataset
 - `purpose`: Purpose of loan
 
 
-## Libraries Used
+## Libraries Used (Bibliotecas Utilizadas)
 
 - Pandas
 - Matplotlib
@@ -69,11 +70,11 @@ Credit Risk Dataset
 - Scikit-learn
 - XGBoost
 
-## Usage
+## Usage (Utilização)
 
 The project involves data preprocessing, visualization, and classification model training to predict credit defaulters.
 
-## Installation
+## Installation (Instalação)
 To run the project, you need to install the required libraries:
 
 ```bash
