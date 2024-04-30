@@ -77,5 +77,5 @@ To run the project, you need to install the required libraries:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost imbalanced-learn plotly
-
+```
 Than run the code in your prefered IDE.
