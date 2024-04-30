@@ -37,7 +37,7 @@ This project focuses on Data Analysis and Forecast using the CRISP-DM approach, 
 - XGBoost
 - Imbalanced-learn
 
-### Usage (Utilização)
+## Usage (Utilização)
 The project includes data exploration, visualization, preprocessing, model training, and evaluation using various classification algorithms.
 
 ## Dataset - 2
