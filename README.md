@@ -44,7 +44,7 @@ Credit Risk Dataset
 
 - This dataset consists of credit history records of customers from a financial institution.
 - The aim is to predict possible credit defaulters and assist financial institutions in taking appropriate steps.
-- 
+
 
 ## Features 2
 
@@ -67,7 +67,7 @@ Credit Risk Dataset
 - Seaborn
 - Scikit-learn
 - XGBoost
-- 
+
 ## Usage
 
 The project involves data preprocessing, visualization, and classification model training to predict credit defaulters.
